@@ -1,0 +1,71 @@
+#main-div{
+
+    font-size: 16px;
+   border-radius: 5px;
+    height: 500px;
+    width: 700px;
+}
+p{
+    margin-bottom: 0px;
+    color: grey;
+    font-size: 0.9rem;
+  
+}
+
+#inner-div1{
+
+    
+    height: 30%;
+    background-color: #4e0459;
+    
+}
+
+#inner-div2{
+
+    height:70%;
+    background-color:#f9f0ff;
+}
+
+#inner-div3{
+   
+    height: 350px;
+    width: 450px;
+    position: relative;
+    top: -85%;
+    left: 115px;
+    background-color: #ffffff;
+    border-radius: 5%;
+}
+#but1{
+    border: none;
+    border-radius: 50px;
+    background-color:#8c6991;
+    color: #f9f0ff;
+    justify-content: center;
+
+}
+
+#but1:hover{
+     
+    cursor: pointer;
+}
+
+#but1:active{
+    background-color: #2f1533;
+}
+
+#but1:focus{
+    background-color: #2f1533;
+
+}
+
+h1{
+    padding: 20px;
+}
+
+#faq1, #faq2, #faq3, #faq4{
+    color: #2f1533;
+    padding: 10px;
+    position: relative;
+    top: -20px;
+}
